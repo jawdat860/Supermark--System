@@ -1,2 +1,2 @@
 # SupermarketBillingSystem
-Supermarket  system using  C++.
+Supermarket system using C++.
